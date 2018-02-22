@@ -1,0 +1,15 @@
+{
+  "name": "mysupersecretpublicdiary",
+  "version": "1.0.0",
+  "description": "public diary for private use",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Brian Dudey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.6"
+  }
+}
